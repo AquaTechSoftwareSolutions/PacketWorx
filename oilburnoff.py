@@ -1,3 +1,4 @@
+
 # Given parameters for flaring rate
 flaring_rate_barrels_per_15min = 2  # 2 barrels every 15 minutes
 
